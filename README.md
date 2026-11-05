@@ -1,2 +1,3 @@
 # python_program
-My very first project ever
+
+This repository contains my Python learning journey and practice projects.
